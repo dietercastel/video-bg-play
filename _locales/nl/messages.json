@@ -1,1 +1,11 @@
+{
+  "extensionName": {
+    "message": "Video afspelen in de achtergrond fix",
+    "description": "Naam van de extensie."
+  },
 
+  "extensionDescription": {
+    "message": "Speel een video af in de achtergrond zelfs als de pagina dat niet wilt toestaan.",
+    "description": "Beschrijving van de extensie."
+  }
+}

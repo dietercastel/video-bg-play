@@ -1,1 +1,12 @@
+{
+  "extensionName": {
+    "message": "Solution pour lire une vidéo en arrière-plan",
+    "description": "Nom de la extension"
+  },
+
+  "extensionDescription": {
+    "message": "Lisez une vidéo en arrière-plan même si la page ne le permet pas.",
+    "description": "Description de la extension"
+  }
+}
 
